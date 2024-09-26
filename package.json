@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohan7003/NodeJs-1.git"
+  },
+  "author": "Rohan Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohan7003/NodeJs-1/issues"
+  },
+  "homepage": "https://github.com/rohan7003/NodeJs-1#readme",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
